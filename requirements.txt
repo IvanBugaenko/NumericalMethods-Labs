@@ -1,0 +1,6 @@
+notebook
+numpy
+scipy
+sympy
+matplotlib
+seaborn
